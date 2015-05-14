@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragment Examples 2 - Modular</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="titles">
+        <item>Activities</item>
+        <item>Services</item>
+        <item>Content Providers</item>
+        <item>Intents and Intent Filters</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An activity is an application component that provides...</item>
+        <item>A service is an application component that can perform long...</item>
+        <item>Content Providers manage access to a structured set of data...</item>
+        <item>3 of the core components of the application are activated by...</item>
+    </string-array>
+
+</resources>
